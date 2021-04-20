@@ -2,4 +2,4 @@
 
 This is Yogev DS project.
 
-[the link to the database](www.google.com)
+[the link to the database](http://www.google.com)
